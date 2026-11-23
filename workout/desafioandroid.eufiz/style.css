@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: #27ae60; /* ou um tom de verde do seu gosto */
+    margin: 0;
+}
+
+div{background: linear-gradient(45deg, #d4fc79 0%, #96e6a1 35%, #43cea2 70%, #185a9d 100%);
+color: white; }
+
+main {
+    background-color: white;
+    max-width: 800px;   /* Largura máxima da caixa */
+    margin: auto;       /* Centraliza a caixa na tela */
+    padding: 20px;      /* Espaçamento interno para o texto não colar nas bordas */
+}
+
+h1,h2,h3{
+    color: #53ff9e;
+}
+

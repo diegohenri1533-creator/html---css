@@ -1,0 +1,17 @@
+body{
+    font: normal 16px Arial, verdana, serif;
+    background-color: brown;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: pink;
+}
+
+div{
+    text-align: center;
+    background-color: black;
+}
